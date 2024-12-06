@@ -10,7 +10,9 @@
 
 ## 👥 Our Team
 [Insert a short description of your team here. Include a group picture or a picture of a key team member.]
-<img src="https://github.com/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
+<img src="htt![#Cohort3BSK (1)](https://github.com/user-attachments/assets/87a70868-acc8-46b1-b03d-cdf575f59e8f)
+ps://github.c![#Cohort3BSK (1)](https://github.com/user-attachments/assets/67b737d7-7457-4460-8830-d63cb2034e64)
+om/MyFirstBitcoin/Light-Node-Directory/blob/main/team_placeholder.png" width="500" alt="Team Picture"> <!-- 1 picture maximum -->
 
 ## 🎓 Graduations
 - **Dates of Graduations:** [Insert List of Graduation Dates Here]
